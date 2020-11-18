@@ -58,17 +58,17 @@ subtitle = ""
 
 <br>
 
-> **그리다니아에서 오시는분**
+> **그리다니아(Gridania/グリダニア)에서 오시는분**
 >
-> 구시가지 창술사길드 옆 꽃꿀나루에서 배편 이용
+> 창술사 길드(Lancers' Guild/槍術士ギルド) 옆 선착장에서 꽃꿀 나루(Sweetbloom Pier/花蜜桟橋) 행 배편 이용
 
-> **기라바니아에서 오시는분**
+> **기라바니아(Gyr Abania/ギラバニア)에서 오시는분**
 >
-> 기라바니아 변방지대에서 쌍사당 장교 {{< icon name="angle-double-left" pack="fas" >}}문지기{{< icon name="angle-double-right" pack="fas" >}} 이용
+> 기라바니아 변방지대(The Fringes/ギラバニア辺境地帯)에서 쌍사당 장교<문지기>(Serpent Officer \<Gatekeep>/双蛇党の将校\<GATEKEEPER>) 이용
 
 > **돈이 많으신 분**
 >
-> 검은장막 숲 동부삼림의 호손 일가의 산장 에테라이트 이용
+> 검은장막 숲 동부삼림(East Shroud/黒衣森 : 東部森林)의 호손 일가의 산장(The Hawthorne Hut/ホウソーン家の山塞) 에테라이트(aetheryte/エーテライト) 이용
 
 
 <br>
