@@ -5,18 +5,25 @@
 
 [[main]]
   name = "Home"
-  url = "#about"
+  url = "#top"
   weight = 10
 
 [[main]]
-  name = "갤러리"
-  url = "#posts"
+  name = "일정"
+  url = "#date"
   weight = 20
 
 [[main]]
   name = "오시는 길"
-  url = "#contact"
-  weight = 60
+  url = "#howtocome"
+  weight = 30
+
+[[main]]
+  name = "추억"
+  url = "#gallery"
+  weight = 40
+
+
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/cv.pdf` and uncomment the lines below.

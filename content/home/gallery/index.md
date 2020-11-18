@@ -5,12 +5,15 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 66  # Order that this section will appear.
 
-title = "갤러리"
+title = ""
 subtitle = ""
 
 [design]
-  color = "white"
   columns = "1"
+
+[design.background]
+  color = "white"
+
 
 +++
 
