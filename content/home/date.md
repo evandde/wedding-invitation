@@ -50,4 +50,6 @@ subtitle = ""
  css_class = ""
 +++
 
-{{< figure src="media/calender.png" >}}
+
+
+{{< figure src="media/calender_withbkg_optimized.png" >}}
