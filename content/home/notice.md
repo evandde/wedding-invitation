@@ -51,18 +51,27 @@ subtitle = ""
 +++
 
 ---
+
+<br>
+<br>
 <br>
 
 {{< figure src="media/flower_poem.png" >}}
 
 <br>
+<br>
+<br>
 
 ---
 
 <br>
+<br>
+<br>
 
 {{< figure src="media/notice.png" >}}
 
+<br>
+<br>
 <br>
 
 ---

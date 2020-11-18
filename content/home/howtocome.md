@@ -50,12 +50,13 @@ subtitle = ""
  css_class = ""
 +++
 
-
+<br>
+<br>
+<br>
 
 {{< figure src="media/map.png" >}}
 
 <br>
-
 
 > **그리다니아에서 오시는분**
 >
@@ -70,6 +71,8 @@ subtitle = ""
 > 검은장막 숲 동부삼림의 호손 일가의 산장 에테라이트 이용
 
 
+<br>
+<br>
 <br>
 
 ---
