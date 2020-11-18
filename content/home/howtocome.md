@@ -58,11 +58,11 @@ subtitle = ""
 
 <br>
 
-> **그리다니아(Gridania/グリダニア)에서 오시는분**
+> **그리다니아(Gridania/グリダニア)에서 오시는 분**
 >
 > 창술사 길드(Lancers' Guild/槍術士ギルド) 옆 선착장에서 꽃꿀 나루(Sweetbloom Pier/花蜜桟橋) 행 배편 이용
 
-> **기라바니아(Gyr Abania/ギラバニア)에서 오시는분**
+> **기라바니아(Gyr Abania/ギラバニア)에서 오시는 분**
 >
 > 기라바니아 변방지대(The Fringes/ギラバニア辺境地帯)에서 쌍사당 장교<문지기>(Serpent Officer \<Gatekeep>/双蛇党の将校\<GATEKEEPER>) 이용
 
