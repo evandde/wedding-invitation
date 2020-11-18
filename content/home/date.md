@@ -6,7 +6,7 @@
 widget = "blank"  # See https://wowchemy.com/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 1  # Order that this section will appear.
+weight = 2  # Order that this section will appear.
 
 title = ""
 subtitle = ""
@@ -50,4 +50,4 @@ subtitle = ""
  css_class = ""
 +++
 
-{{< figure src="media/invit_front3.png" >}}
+{{< figure src="media/calender.png" >}}
