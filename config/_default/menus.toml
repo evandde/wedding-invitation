@@ -23,6 +23,10 @@
   url = "#gallery"
   weight = 40
 
+[[main]]
+  name = "덕담한마디"
+  url = "#comment"
+  weight = 50
 
 
 # Link to a PDF of your resume/CV from the menu.

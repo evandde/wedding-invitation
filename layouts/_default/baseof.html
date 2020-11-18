@@ -31,12 +31,13 @@
 
   {{/* Docs and Updates layouts include the site footer in a different location. */}}
   {{ if not (in (slice "book" "docs" "updates") .Type) }}
-  <div class="container">
+  <div class="container" id="comment">
     {{ partial "site_footer" . }}
+
+    
+    {{ partial "comments" . }}
   </div>
   {{ end }}
-
-  {{ partial "comments" . }}
 
   {{ partial "citation" . }}
 
