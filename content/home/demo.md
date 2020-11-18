@@ -50,4 +50,4 @@ subtitle = ""
  css_class = ""
 +++
 
-{{< figure src="media/invit_front3-min.png" >}}
+{{< figure src="media/invit_front3_optimized.png" >}}
