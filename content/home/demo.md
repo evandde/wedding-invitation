@@ -52,4 +52,6 @@ subtitle = ""
 
 ---
 
+<br>
+
 {{< figure src="media/invit_front3_wotime_optimized.png" >}}
