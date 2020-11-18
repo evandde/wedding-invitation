@@ -25,6 +25,8 @@
 
   {{ partial "navbar" . }}
 
+  <iframe src="https://www.youtube.com/embed/--knPjoSlNE?amp;autoplay=1&playlist=--knPjoSlNE&loop=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
   {{ block "main" . }}{{ end }}
 
   {{ partial "site_js" . }}
@@ -32,7 +34,6 @@
   {{/* Docs and Updates layouts include the site footer in a different location. */}}
   {{ if not (in (slice "book" "docs" "updates") .Type) }}
   <div class="container" id="comment">
-    <iframe src="https://www.youtube.com/embed/--knPjoSlNE?&amp;mute=1&amp;showinfo=0&amp;autoplay=1&amp;loop=1;playlist=--knPjoSlNE" frameborder="0" allow="autoplay" allowfullscreen></iframe>
     {{ partial "site_footer" . }}
     
     {{ partial "comments" . }}
