@@ -13,7 +13,7 @@ subtitle = ""
   columns = "1"
 
 [design.background]
-  image = "bkg7.png"  # Name of image in `static/media/`.
+  image = "photo1.png"  # Name of image in `static/media/`.
 
 +++
 

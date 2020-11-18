@@ -19,5 +19,5 @@ content:
 design:
   columns: '1'
   background:
-    image: "bkg7.png"  # Name of image in `static/media/`.
+    image: "photo1.png"  # Name of image in `static/media/`.
 ---
