@@ -11,6 +11,10 @@ subtitle = ""
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
+
+[design.background]
+  image = "bkg7.png"  # Name of image in `static/media/`.
+
 +++
 
 {{< gallery >}}
