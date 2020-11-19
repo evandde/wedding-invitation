@@ -54,7 +54,7 @@ subtitle = ""
 <br>
 <br>
 
-{{< figure src="media/calender_withbkg_optimized.png" >}}
+{{< figure src="media/calender_withbkg_optimized.jpg" >}}
 
 <br>
 <br>

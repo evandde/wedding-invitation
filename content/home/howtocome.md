@@ -54,7 +54,7 @@ subtitle = ""
 <br>
 <br>
 
-{{< figure src="media/map.png" >}}
+{{< figure src="media/map_optimized.jpg" >}}
 
 <br>
 

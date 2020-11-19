@@ -56,7 +56,7 @@ subtitle = ""
 <br>
 <br>
 
-{{< figure src="media/flower_poem.png" >}}
+{{< figure src="media/flower_poem.jpg" >}}
 
 <br>
 <br>
@@ -68,7 +68,7 @@ subtitle = ""
 <br>
 <br>
 
-{{< figure src="media/notice.png" >}}
+{{< figure src="media/notice.jpg" >}}
 
 <br>
 <br>
