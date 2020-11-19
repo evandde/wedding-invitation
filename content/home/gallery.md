@@ -50,6 +50,9 @@ subtitle = ""
  css_class = ""
 +++
 
+
+{{< load-photoswipe >}}
+
 <br>
 <br>
 <br>
