@@ -20,7 +20,7 @@
 
 [[main]]
   name = "추억"
-  url = "#gallery"
+  url = "#photoslider"
   weight = 40
 
 [[main]]
