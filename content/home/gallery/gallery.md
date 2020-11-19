@@ -54,7 +54,7 @@ subtitle = ""
 <br>
 <br>
 
-{{< gallery-slider dir="/media/gallery/" arrow-left="fa-angle-double-left" arrow-right="fa-angle-double-right" width="100%" height="100%" >}}      
+{{< gallery dir="/media/gallery/" >}}
 
 <br>
 <br>
