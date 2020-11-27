@@ -59,5 +59,5 @@ subtitle = ""
 <br>
 <br>
 
-{{< figure src="media/invit_front3_wotime_optimized.jpg" >}}
+{{< figure src="media/invit_front3_wtime_optimized.jpg" >}}
 
